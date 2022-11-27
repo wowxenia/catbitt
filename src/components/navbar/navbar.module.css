@@ -1,0 +1,27 @@
+.navbar {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding-top: 50px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.list {
+  display: flex;
+  width: 200px;
+  justify-content: space-around;
+  list-style: none;
+}
+
+.item {
+  text-decoration: none;
+  color: #fff;
+}

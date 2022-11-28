@@ -13,7 +13,7 @@ const Navbar = () => {
                 src='https://configcat.com/images/shared/cat-white.svg'
                 alt='logo'
               />
-              Catbit
+              Catbitt
             </Link>
           </span>
           <ul className={styles.list}>
